@@ -1,0 +1,2 @@
+# introspection_out_of_language_cave
+new plateform conception
