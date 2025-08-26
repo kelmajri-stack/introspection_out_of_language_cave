@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>الخروج من كهف اللغة</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>اكتب روايتك هنا...</h1>
+        <textarea id="textInput" placeholder="أدخل نصًا مختلطًا (عربي/إنجليزي)"></textarea>
+        <button onclick="generateArt()">تحويل إلى فن</button>
+        
+        <div id="output">
+            <h2>الفن الناتج:</h2>
+            <canvas id="artCanvas" width="400" height="200"></canvas>
+            <audio id="audioOutput" controls></audio>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
