@@ -1,0 +1,13 @@
+introspection_out_of_language_cave/
+├── index.html              # الصفحة الرئيسية
+├── style.css               # الأنماط الرئيسية (بناءً على css.txt/سوف يتم تطويرها)
+├── script.js               # السلوك التفاعلي (بناءً على javascript.txt)
+├── README.md               # وصف المشروع
+├── LICENSE                 # رخصة MIT
+├── assets/                 # مجلد للموارد
+│   ├── images/             # الصور والشعارات
+│   └── icons/              # الأيقونات
+└── pages/                  # صفحات إضافية (للتوسع المستقبلي)
+    ├── about.html
+    ├── features.html
+    └── contact.html
